@@ -12,4 +12,4 @@ a=Math(5)
 print(a.num)
 a.addtonum(6)
 print(a.num)
-print(Math.add(7,2)) #instead i can easily call this addition using simple Math instance
+print(Math.add(7,2)) #instead i can easily call this addition using simple Math instance.
