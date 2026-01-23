@@ -26,6 +26,7 @@ def fetch_news(topic, page_size=5):
         print(f"\n{i}. {article['title']}")
         print(f"   Source: {article['source']['name']}")
         print(f"   URL: {article['url']}")
+
 topics = ["AI", "Sports", "Technology", "Finance"]
 
 for topic in topics:
